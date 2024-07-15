@@ -1,0 +1,205 @@
+{
+    "customers": [
+      {
+        "id": 15288,     
+        "name": "Yahia Abdellah"     
+     },
+      {
+        "id": 16238,
+        "name": " Mahmoud elawady"
+      },{
+        "id": 17299,
+        "name": "Youssef Mohamed" 
+      },{
+       "id": 18255,
+        "name": "Ibrahim Radi  "
+      },{
+        "id": 19205,
+         "name": "Nourhan saeed"
+       }
+    ],
+    "transactions": [
+      {
+        "id": 1,
+        "customerId": 15288,
+        "date": "2023-07-13",
+        "amount": 10000
+    },
+      {
+        "id": 2,
+        "customerId": 15288,
+        "date": "2023-07-14",
+        "amount": 200
+      }
+      ,
+      {
+        "id": 3,
+        "customerId": 15288,
+        "date": "2023-07-14",
+        "amount": 300
+      },
+      {
+        "id": 4,
+        "customerId": 15288,
+        "date": "2023-07-14",
+        "amount": 400
+      },
+      {
+        "id": 5,
+        "customerId": 15288,
+        "date": "2023-07-15",
+        "amount": 500
+      },
+      {
+        "id": 6,
+        "customerId": 15288,
+        "date": "2023-07-15",
+        "amount": 600
+      },
+      {
+        "id": 7,
+        "customerId": 16238,
+        "date": "2023-07-13",
+        "amount": 700
+      },
+      {
+        "id": 8,
+        "customerId": 16238,
+        "date": "2023-07-14",
+        "amount": 800
+      },
+      {
+        "id": 9,
+        "customerId": 16238,
+        "date": "2023-07-14",
+        "amount": 900
+      },
+      {
+        "id": 10,
+        "customerId": 16238,
+        "date": "2023-07-15",
+        "amount": 1000
+      },
+      {
+        "id": 11,
+        "customerId": 16238,
+        "date": "2023-07-15",
+        "amount": 2000
+      }    ,
+      {
+        "id": 12,
+        "customerId": 16238,
+        "date": "2023-07-15",
+        "amount": 3000
+      }    ,
+      {
+        "id": 13,
+        "customerId": 17299,
+        "date": "2023-07-13",
+        "amount": 4000
+      }    ,
+      {
+        "id": 14,
+        "customerId": 17299,
+        "date": "2023-07-13",
+        "amount": 5000
+      }    ,
+      {
+        "id": 15,
+        "customerId": 17299,
+        "date": "2023-07-13",
+        "amount": 6000
+      }    ,
+      {
+        "id": 16,
+        "customerId": 17299,
+        "date": "2023-07-14",
+        "amount": 9514
+      }    ,
+      {
+        "id": 17,
+        "customerId": 17299,
+        "date": "2023-07-14",
+        "amount": 3578
+      }    ,
+      {
+        "id": 18,
+        "customerId": 17299,
+        "date": "2023-07-15",
+        "amount": 12150
+      }    ,
+      {
+        "id": 19,
+        "customerId": 18255,
+        "date": "2023-07-13",
+        "amount": 50043
+      }    ,
+      {
+        "id": 20,
+        "customerId": 18255,
+        "date": "2023-07-13",
+        "amount": 20315
+      }    ,
+      {
+        "id": 21,
+        "customerId": 18255,
+        "date": "2023-07-14",
+        "amount": 100
+      }    ,
+      {
+        "id": 22,
+        "customerId": 18255,
+        "date": "2023-07-14",
+        "amount": 600
+      }    ,
+      {
+        "id": 23,
+        "customerId": 18255,
+        "date": "2023-07-14",
+        "amount": 5482
+      }    ,
+      {
+        "id": 24,
+        "customerId": 18255,
+        "date": "2023-07-15",
+        "amount": 8545
+      }    ,
+      {
+        "id": 25,
+        "customerId": 19205,
+        "date": "2023-07-13",
+        "amount": 12115
+      }    ,
+      {
+        "id": 26,
+        "customerId": 19205,
+        "date": "2023-07-13",
+        "amount": 2359
+      }    ,
+      {
+        "id": 27,
+        "customerId": 19205,
+        "date": "2023-07-14",
+        "amount": 1000
+      }  ,
+      {
+        "id": 28,
+        "customerId": 19205,
+        "date": "2023-07-14",
+        "amount": 2000
+      }  ,
+      {
+        "id": 29,
+        "customerId": 19205,
+        "date": "2023-07-15",
+        "amount": 2513
+      }     ,
+      {
+        "id": 30,
+        "customerId": 19205,
+        "date": "2023-07-15",
+        "amount": 12520
+      }                         
+    ]
+  }
+  

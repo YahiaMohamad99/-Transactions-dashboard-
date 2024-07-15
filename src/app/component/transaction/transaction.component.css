@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-mdc-form-field {
+    font-size: 14px;
+    width: 50%;
+    margin: 0 auto  ;
+  }
+  h3{
+    text-align: center;
+  }
