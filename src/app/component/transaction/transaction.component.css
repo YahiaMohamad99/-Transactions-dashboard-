@@ -1,12 +1,22 @@
-table {
-    width: 100%;
-  }
-  
+
   .mat-mdc-form-field {
     font-size: 14px;
+    width: 100%;
+
+  }
+  .middle{
     width: 50%;
-    margin: 0 auto  ;
+    margin: 0 auto  ; 
+       text-align: center;
+
   }
-  h3{
-    text-align: center;
+
+  .container{
+    width: 80%;
+    margin: 0 auto;
   }
+
+  table{
+    max-height:700px;
+  
+  overflow-y: scroll;}
